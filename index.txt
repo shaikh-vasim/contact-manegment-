@@ -1,0 +1,5 @@
+database name= std
+table name= Students
+
+user="root"
+pass=""
