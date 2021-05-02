@@ -42,8 +42,8 @@ CREATE TABLE `students` (
 --
 
 INSERT INTO `students` (`roll_no`, `name`, `email`, `gender`, `contact`, `dob`, `address`) VALUES
-(13, 'vasim ', 'vs454@gmail.com', 'Male', '5124565252', '3-11-2001', 'nashik \n\n\n'),
-(121, 'shaikh  vasim ', 'vs454@gmail.com', 'Male', '5124565252', '3-11-2001', 'nashik \n\n'),
+(13, 'vasim ', 'vs786614@gmail.com', 'Male', '9850917382', '3-11-2001', 'nashik \n\n\n'),
+(121, 'shaikh  vasim ', 'vs786614@gmail.com', 'Male', '9850617382', '3-11-2001', 'nashik \n\n'),
 (111213, '21212', 'qw', 'Male', 'weqeq', 'wqee', 'qweqweqweqwe\n\n');
 
 --
